@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Eld3rly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there 👋
+### Welcome to my GitHub profile where I writing my rusty code.
 
-<!---
-Eld3rly/Eld3rly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Currently working on:
+  - нихуя [\*Click\*](https://нихуя.com/)  
+  
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eld3rly&show_icons=true&count_private=true&bg_color=45,F50E55,3D24F8&title_color=fff&text_color=fff&icon_color=fff&border_radius=10&hide_border=true)  
